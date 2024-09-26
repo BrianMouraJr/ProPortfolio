@@ -21,7 +21,7 @@
 
 ## Description
 
-It is a React based Website that should work as a portfolio
+A React based Portfolio Website.
 
 
 ## Useage
@@ -48,7 +48,7 @@ To install, download as a zip file or git clone in gitbash.
 
 ## Contributing
 
-Brian Moura
+Created by Brian Moura, TA's and Tutors.
 
 
 ## Links
