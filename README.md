@@ -37,18 +37,13 @@ To install, download as a zip file or git clone in gitbash or other equivelences
 
 
 ## Visuals
-![This is a image of the AboutMe Page](./Assets/images/About.png)
+![This is a image of the AboutMe Page](./Assets/images/about.png)
 
 ![this is an image of the Portfolio Page](./Assets/images/Portfolio.png)
 
 ![this is an image of the Contact Page](./Assets/images/Contact.png)
 
 ![this is an image of the Resume Page](./Assets/images/Resume.png)
-
-
-## Tests
-
- Go to https://main--stellular-begonia-7c1893.netlify.app/ and look around it.  The images do not work for some reason
 
 
 ## Contributing
