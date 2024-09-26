@@ -33,7 +33,7 @@ To use this project:
 
 ## Installation
 
-To install, download as a zip file or git clone in gitbash or other equivelences.
+To install, download as a zip file or git clone in gitbash.
 
 
 ## Visuals

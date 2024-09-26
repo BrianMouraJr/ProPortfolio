@@ -9,7 +9,6 @@ export default function Resume() {
       <ul>HTML</ul>
       <ul>CSS</ul>
       <ul>JavaScript</ul>
-      <ul>Bootstrap</ul>
       <ul>NodeJs</ul>
       <ul>SQL</ul>
       <ul>Nosql</ul>
