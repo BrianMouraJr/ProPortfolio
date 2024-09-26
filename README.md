@@ -37,7 +37,7 @@ To install, download as a zip file or git clone in gitbash.
 
 
 ## Visuals
-![This is a image of the AboutMe Page](./Assets/images/about.png)
+![This is a image of the AboutMe Page](./Assets/images/About.png)
 
 ![this is an image of the Portfolio Page](./Assets/images/Portfolio.png)
 
